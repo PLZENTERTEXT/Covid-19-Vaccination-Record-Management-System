@@ -1,0 +1,20 @@
+VC1-1|IAN WONG|VC1|19|AF|0149772234|ian.wyl@gmail.com|Height:170.0cm|Weight:55.0kg
+VC2-2|ZHONG LI|VC2|80|BV|0167877666|zhongligeo@gmail.com|Height:180.0cm|Weight:67.0kg
+VC1-3|CAITLYN|VC1|38|EC|0134765893|caitlyn4765@ymail.com|Height:168.0cm|Weight:43.0kg
+VC1-4|YUEN LOONG|VC1|17|AF|014972234|idapowwwuwu@hotmail.com|Height:177.0cm|Weight:55.0kg
+VC2-5|WILLIAM|VC2|22|CZ|016969782|goldsanitaryiwi@gmail.com|Height:166.0cm|Weight:65.0kg
+VC2-6|WING SING|VC2|30|DM|0141783174|hohowingding@hotmail.com|Height:170.0cm|Weight:57.0kg
+VC2-7|TOMMY TEE|VC2|13|DM|0196788546|123tommythetrain@gmail.com|Height:169.0cm|Weight:69.0kg
+VC2-8|AARON YAO|VC2|17|CZ|0113564734|aaron_bw@gmail.com|Height:179.0cm|Weight:55.0kg
+VC1-9|PEGGY CHANG|VC1|19|AF|01135778802|plzentertext@gmail.com|Height:149.0cm|Weight:38.0kg
+VC2-10|DARREN CHAN|VC2|69|DM|013456669|darrenbanana@hotmail.com|Height:185.0cm|Weight:69.0kg
+VC1-11|CHAI WAN TOO|VC1|55|EC|019789444|qingchaiwant2@gmail.com|Height:142.0cm|Weight:42.0kg
+VC1-12|MORELLIKUN|VC1|32|BV|0187865324|morellimorello@gmail.com|Height:180.0cm|Weight:75.0kg
+VC2-13|MEGAN CHOO|VC2|15|AF|019876333|meganchookul4u@ymail.com|Height:150.0cm|Weight:35.0kg
+VC1-14|BENETT YANG|VC1|42|CZ|016442442|ytho@rocketmail.com|Height:169.0cm|Weight:40.0kg
+VC2-15|JOHN PHILIPPE|VC2|40|EC|0183392573|felipeeeeeee3@hotmail.com|Height:190.0cm|Weight:57.0kg
+VC1-16|HU TAO|VC1|25|BV|0197863548|whotao?@liyue.com|Height:151.0cm|Weight:40.0kg
+VC1-17|NING GUANG|VC1|37|DM|017777277|morameat@jadepalace.com|Height:169.0cm|Weight:42.0kg
+VC2-18|VENTI|VC2|65|DM|0118743078|anemoarchon@gmail.com|Height:177.8cm|Weight:54.7kg
+VC1-19|CHANG SHIAU HUEI|VC1|19|DM|01135770088|plzentertext@gmail.com|Height:153.2cm|Weight:39.8kg
+VC1-20|TEST|VC1|16|AF|0174623413|something@mail.com|Height:188.6cm|Weight:45.0kg
