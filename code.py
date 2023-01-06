@@ -1,6 +1,3 @@
-# CHANG SHIAU HUEI
-# TP060322
-
 import os.path, sys
 
 # Generate the necessary files
